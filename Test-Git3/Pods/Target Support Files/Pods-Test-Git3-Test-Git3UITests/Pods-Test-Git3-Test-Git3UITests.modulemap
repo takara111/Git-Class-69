@@ -1,0 +1,6 @@
+framework module Pods_Test_Git3_Test_Git3UITests {
+  umbrella header "Pods-Test-Git3-Test-Git3UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
